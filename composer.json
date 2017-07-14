@@ -22,6 +22,7 @@
         "drupal/aes": "^2.4",
         "drupal/console": "~1.0",
         "drupal/core": "8.2.8",
+        "drupal/devel": "^1.0@RC",
         "drupal/security_review": "1.x-dev",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^0.3.0",
